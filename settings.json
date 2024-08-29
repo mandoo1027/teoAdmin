@@ -1,0 +1,26 @@
+{
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorTheme": "Night Owl",
+  "workbench.iconTheme": "material-icon-theme",
+  "eslint.rules.customizations": [],
+  "eslint.workingDirectories": [],
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "[vue]": {
+    "editor.defaultFormatter": "octref.vetur"
+  },
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "grunt.autoDetect": "on",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.formatOnSave": true
+}

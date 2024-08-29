@@ -1,0 +1,1 @@
+<template>메인화면</template>

@@ -1,0 +1,1 @@
+<template>공고 수정/삭제</template>

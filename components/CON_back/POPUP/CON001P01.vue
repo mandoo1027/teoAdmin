@@ -1,0 +1,1 @@
+<template>접수완료</template>

@@ -1,0 +1,1 @@
+<template>지정한 날짜 다시 선택 안내</template>

@@ -1,0 +1,1 @@
+<template>사업 공고 제안 접수 상세 보기</template>
